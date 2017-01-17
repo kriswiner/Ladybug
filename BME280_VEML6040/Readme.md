@@ -14,8 +14,6 @@ The other is I am taking advantage of the enable/disable functionality of the VE
 
 The other nice thing about the STM32L4 is that the embedded RTC allows a time and date stamp for the data, and the RTC can be calibrated for better than 1 ppm accuracy. In my experiments with the RTC uncalibrated it is gaining about one second per day.
 
-You can see the full Arduino sketch with these methods here.
-
 This is what the environmental sensor experiment looks like:
 ![data logger](https://cdn.hackaday.io/images/996711484502329867.jpg)
 
