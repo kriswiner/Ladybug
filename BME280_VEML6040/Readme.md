@@ -1,4 +1,4 @@
-Practical Environmental Data Logger
+..Practical Environmental Data Logger..
 
 It has been a long standing goal of mine to create an environmental sensor/data logger that could run on a small battery for long enough to collect data from a remote location unattended for a few weeks for later analysis.
 
