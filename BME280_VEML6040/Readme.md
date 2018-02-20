@@ -31,7 +31,7 @@ These changes drop the measured power while in stop mode to 19.5 uA (4.99 out of
 
 **02/20/2018 Update** The board power (LiPo battery) gave out yesterday after 138 days. This was a bit shorter duration than I expected. Average power usage was ~45 uA which is about 50% more than what I was expecting (assuming the LiPo really is 150 mAH). In the meantime I bought an [ST Power Shield](http://www.st.com/en/evaluation-tools/x-nucleo-lpm01a.html) and measured the stop current as 11.1 uA and the average current at 5 second update period of 47.0 uA and at 20 second update period of 20.0 uA. So in the test I ended up using more than twice the power I measure with the power shield. This strange to say the least.
 
-One possibility is the battery was not fully charged, although I am sure I charged it before the test. Another is that it is not actually 150 mAH capacity. Still a third is self discharge (i.e., leakage through internal resistance)  which over 138 days at ~5% per month might account for an extra ~9 uA of current usage but not the entire extra ~25 uA expended. The self-discharge would have to be closer to 12.5% to account for this amount, or maybe a combination of self-discharge and incomplete charging could account for the result.
+One possibility is the battery was not fully charged, although I am sure I charged it before the test. Another is that it is not actually 150 mAH capacity. Still a third is self discharge (i.e., leakage through internal resistance)  which over 138 days at ~5% per month might account for an extra ~10 uA of current usage but not the entire extra ~25 uA expended. The self-discharge would have to be closer to 12.5% to account for this amount, or maybe a combination of self-discharge and incomplete charging could account for the result.
 
 The good news is the Ladybug plus sensors plus SPI flash plus display is an ultra-low power device. The bad news is that the battery might not be!
 
@@ -39,7 +39,7 @@ I did manage to record 54,000 256-byte pages of data on the SPI flash memory. Th
 
 ![pressure](https://user-images.githubusercontent.com/6698410/36453199-1dbb784e-164c-11e8-9376-e7e15f8d78f4.jpg)
 
-The data span three and a half months and represent the conditions at the window sill next to my workstation. Not very interesting, being indoors and all. But there is an interesting excursion around January 10 of the pressure dipping down to ~966 mbar for no reason that I can remember.
+The data span four and a half months and represent the conditions at the window sill next to my workstation. Not very interesting, being indoors and all. But there is an interesting excursion around January 10 of the pressure dipping down to ~966 mbar for no reason that I can remember.
 
 ![ambient light](https://user-images.githubusercontent.com/6698410/36453192-1550725e-164c-11e8-8490-e4f70b0aafe7.jpg)
 
