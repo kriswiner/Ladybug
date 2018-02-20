@@ -46,3 +46,5 @@ The data span three and a half months and represent the conditions at the window
 The ambient light fluctuates from high to zero once per 24 hours. The highs record some information of cloud cover or sun and there are quite a few spells spanning several days where the peak light level is quite low; this coincides with the Winter storms that blew through in late October and early December.
 
 ![humiditytemperature](https://user-images.githubusercontent.com/6698410/36453165-f962f512-164b-11e8-8401-b9694f05e70d.jpg)
+
+Not quite sure what to make of the humidity; there is a long-term trend with some interesting low-to-high-to-low oscillation over a month or two but I dont know what this means. The temperature simply shows the indoor temperature remains fairly constant albeit a bit too cool for my wife's taste;>.
