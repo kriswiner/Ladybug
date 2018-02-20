@@ -39,8 +39,10 @@ I did manage to record 54,000 256-byte pages of data on the SPI flash memory. Th
 
 ![pressure](https://user-images.githubusercontent.com/6698410/36453199-1dbb784e-164c-11e8-9376-e7e15f8d78f4.jpg)
 
-The data spann three and a half months and represent the conditions at the window sill next to my workstation. Not very interesting, being indoors and all. But there is an interesting excursion in january of the pressure dipping down to 965 mbar for no reason that I can remember.
+The data span three and a half months and represent the conditions at the window sill next to my workstation. Not very interesting, being indoors and all. But there is an interesting excursion around January 10 of the pressure dipping down to ~966 mbar for no reason that I can remember.
 
 ![ambient light](https://user-images.githubusercontent.com/6698410/36453192-1550725e-164c-11e8-8490-e4f70b0aafe7.jpg)
+
+The ambient light fluctuates from high to zero once per 24 hours. The highs record some information of cloud cover or sun and there are quite a few spells spanning several days where the peak light level is quite low; this coincides with the Winter storms that blew through in November and December.
 
 ![humiditytemperature](https://user-images.githubusercontent.com/6698410/36453165-f962f512-164b-11e8-8401-b9694f05e70d.jpg)
