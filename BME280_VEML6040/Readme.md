@@ -37,4 +37,6 @@ The good news is the Ladybug plus sensors plus SPI flash plus display is ultra-l
 
 I did manage to record 54,000 256-byte pages of data on the SPI flash memory. This is a lot of data and my attempts to plot all of it in open office caused the program to fail. So eventually I output only every 15th data entry (every five minutes) and was able to plot all of the data with minimum fuss. Here are some examples:
 
-![pressure]()
+![pressure](https://user-images.githubusercontent.com/6698410/36453199-1dbb784e-164c-11e8-9376-e7e15f8d78f4.jpg)
+
+![ambient light]()
