@@ -39,4 +39,6 @@ I did manage to record 54,000 256-byte pages of data on the SPI flash memory. Th
 
 ![pressure](https://user-images.githubusercontent.com/6698410/36453199-1dbb784e-164c-11e8-9376-e7e15f8d78f4.jpg)
 
-![ambient light]()
+![ambient light](https://user-images.githubusercontent.com/6698410/36453192-1550725e-164c-11e8-8490-e4f70b0aafe7.jpg)
+
+![humiditytemperature]()
