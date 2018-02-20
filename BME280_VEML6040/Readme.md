@@ -43,6 +43,6 @@ The data span three and a half months and represent the conditions at the window
 
 ![ambient light](https://user-images.githubusercontent.com/6698410/36453192-1550725e-164c-11e8-8490-e4f70b0aafe7.jpg)
 
-The ambient light fluctuates from high to zero once per 24 hours. The highs record some information of cloud cover or sun and there are quite a few spells spanning several days where the peak light level is quite low; this coincides with the Winter storms that blew through in November and December.
+The ambient light fluctuates from high to zero once per 24 hours. The highs record some information of cloud cover or sun and there are quite a few spells spanning several days where the peak light level is quite low; this coincides with the Winter storms that blew through in late October and early December.
 
 ![humiditytemperature](https://user-images.githubusercontent.com/6698410/36453165-f962f512-164b-11e8-8401-b9694f05e70d.jpg)
