@@ -55,8 +55,8 @@ Adafruit_SharpMem display(DSCK, DMOSI, DSS);
 uint8_t Posr = P_OSR_01, Hosr = H_OSR_01, Tosr = T_OSR_01, Mode = sleepMode, IIRFilter = full, SBy = t_1000ms;     // set pressure amd temperature output data rate
 
 float Temperature, Pressure, Humidity; // stores BME280 pressures sensor pressure and temperature
-uint32_t rawPress, rawTemp, compHumidity, compTemp, compPress;   // pressure and temperature raw count output for BME280
-uint16_t rawHumidity;  // variables to hold raw BME280 humidity value
+int32_t rawPress, rawTemp, compHumidity, compTemp, compPress;   // pressure and temperature raw count output for BME280
+int16_t rawHumidity;  // variables to hold raw BME280 humidity value
 float   temperature_C, temperature_F, pressure, humidity, altitude; // Scaled output of the BME280
 
 BME280 BME280; // instantiate BME280 class
